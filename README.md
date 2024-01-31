@@ -6,11 +6,11 @@
 - 📫 How to reach me **kc07535@st.habib.edu.pk**
 
 <h3 align="left">Connect with me:</h3>
-[<img align="left" alt="Khubaib | LinkedIn" width="48px" src="Assets/linkedin.png" />][linkedin]
-[<img align="left" alt="Khubaib | GMail" width="48px" src="Assets/gmail.png" />][Gmail]
-[<img align="left" alt="Khubaib | Outlook" width="48px" src="Assets/outlook.png" />][Outlook]
-[<img align="left" alt="Khubaib | Facebook" width="48px" src="Assets/facebook.png" />][Facebook]
-[<img align="left" alt="Khubaib | Instagram" width="48px" src="Assets/instagram.png" />][instagram]
+[<img align="left" alt="Kushal | LinkedIn" width="48px" src="Assets/linkedin.png" />][linkedin]
+[<img align="left" alt="Kushal | GMail" width="48px" src="Assets/gmail.png" />][Gmail]
+[<img align="left" alt="Kushal | Outlook" width="48px" src="Assets/outlook.png" />][Outlook]
+[<img align="left" alt="Kushal | Facebook" width="48px" src="Assets/facebook.png" />][Facebook]
+[<img align="left" alt="Kushal | Instagram" width="48px" src="Assets/instagram.png" />][instagram]
 
 <br/>
 
