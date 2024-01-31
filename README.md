@@ -26,6 +26,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushal-chandani&show_icons=true&locale=en&layout=compact" alt="kushal-chandani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal-chandani&show_icons=true&locale=en" alt="kushal-chandani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushal-chandani&theme=dark" alt="kushal-chandani" /></p>
