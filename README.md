@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kushal Chandani</h1>
-<h3 align="center">A passionate Computer Science Student</h3>
+<h1 align="left">Hi 👋, I'm Kushal Chandani</h1>
+<h3 align="left">A passionate Computer Science Student</h3>
 
 - 🌱 I’m currently learning **Javascript, ReactJS and NodeJS**
-
-- 📫 How to reach me **kc07535@st.habib.edu.pk**
-
+- 
 <h3 align="left">Connect with me:</h3>
 
 [<img align="left" alt="Kushal | LinkedIn" width="48px" src="Assets/linkedin.png" />][linkedin]
