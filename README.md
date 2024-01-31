@@ -2,7 +2,7 @@
 <h3 align="left">A passionate Computer Science Student</h3>
 
 - 🌱 I’m currently learning **Javascript, ReactJS and NodeJS**
-- 
+
 <h3 align="left">Connect with me:</h3>
 
 [<img align="left" alt="Kushal | LinkedIn" width="48px" src="Assets/linkedin.png" />][linkedin]
