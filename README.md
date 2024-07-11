@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Kushal Chandani</h1>
 <h3 align="left">A passionate Computer Science Student</h3>
 
-- I’m currently learning **Javascript, ReactJS and NodeJS** 🌱
+- I’m currently learning **Large Language Models (LLMs), Javascript, ReactJS and NodeJS** 🌱
 - I'm an enthusiastic troubleshooter 💡 and a technology enthusiast, always curious about cutting-edge advancements 🚀
 - Currently, I am an undergraduate junior at Habib University
 - I'm driven by the belief in leveraging my expertise to contribute positively to society 🌱
