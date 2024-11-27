@@ -3,7 +3,7 @@
 
 - I’m currently learning **Large Language Models (LLMs), Javascript, ReactJS and NodeJS** 🌱
 - I'm an enthusiastic troubleshooter 💡 and a technology enthusiast, always curious about cutting-edge advancements 🚀
-- Currently, I am an undergraduate junior at Habib University
+- Currently, I am an undergraduate senior at Habib University
 - I'm driven by the belief in leveraging my expertise to contribute positively to society 🌱
 - Excited to engage with fellow industry peers and share experiences 🤝
 
