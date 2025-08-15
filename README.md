@@ -98,11 +98,6 @@ I'm a **Computer Science graduate** from **Habib University**, passionate about 
   <img src="https://github-profile-trophy.vercel.app/?username=kushal-chandani&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-## 👀 Profile Views
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kushal-chandani&label=Profile%20views&color=7E3ACE&style=for-the-badge" alt="Profile Views" />
-</div>
-
 ## 💼 Let's Connect!
 <div align="center">
   <a href="https://www.linkedin.com/in/kushal-chandani-0a9b261a6/">
