@@ -37,6 +37,7 @@ I'm a **Computer Science graduate** from **Habib University**, passionate about 
   <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </div>
 
 ### 🗄️ Databases
@@ -50,9 +51,19 @@ I'm a **Computer Science graduate** from **Habib University**, passionate about 
 ### 🛠️ Tools & Platforms
 <div align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+</div>
+
+### 🖥️ Systems & Platforms
+<div align="center">
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 ### 🤖 AI Tools & Assistants
@@ -87,6 +98,11 @@ I'm a **Computer Science graduate** from **Habib University**, passionate about 
   <img src="https://github-profile-trophy.vercel.app/?username=kushal-chandani&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
+## 👀 Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kushal-chandani&label=Profile%20views&color=7E3ACE&style=for-the-badge" alt="Profile Views" />
+</div>
+
 ## 💼 Let's Connect!
 <div align="center">
   <a href="https://www.linkedin.com/in/kushal-chandani-0a9b261a6/">
@@ -109,7 +125,7 @@ I'm a **Computer Science graduate** from **Habib University**, passionate about 
 ## 📝 Latest Projects
 - 🤖 **Building AI Avatars**: Developing AI-driven avatars for interactive applications using Generative AI and NLP
 - 🏠 **AI Property Management System**: Creating an intelligent system for property management, integrating AI for automation and predictive analytics
-- 📊 **Data Science**: Building predictive models using TensorFlow, Pandas, and Scikit-learn
+- 📊 **Data Science**: Building predictive models using TensorFlow, PyTorch, Pandas, and Scikit-learn
 - 🌐 **Web Development**: Creating full-stack applications with React and Node.js
 - 🔍 **NLP Projects**: Exploring natural language processing for text analysis and chatbots
 
