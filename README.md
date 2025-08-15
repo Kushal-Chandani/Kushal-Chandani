@@ -69,14 +69,22 @@ I'm a **Computer Science graduate** from **Habib University**, passionate about 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-chandani&layout=compact&theme=midnight-purple&langs_count=8&card_width=495" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=kushal-chandani&theme=midnight-purple&border=7f3ace&ring=80ff00&fire=80ff00" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <a href="https://metrics.lecoq.io/insights?user=kushal-chandani">
+    <img src="https://img.shields.io/badge/GitHub_Metrics-Detailed_Analytics-7E3ACE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Metrics" />
+  </a>
+  <a href="https://octoprofile.vercel.app/user?id=kushal-chandani">
+    <img src="https://img.shields.io/badge/OctoProfile-Enhanced_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="OctoProfile" />
+  </a>
+</div>
+
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kushal-chandani&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-## 👀 Profile Views
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kushal-chandani&label=Profile%20views&color=7E3ACE&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ## 💼 Let's Connect!
